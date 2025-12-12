@@ -484,7 +484,3 @@ The **collection-per-tenant** approach is ideal for this use case because:
 For an **early-stage product** or **proof-of-concept**, this design delivers maximum value with minimum complexity.
 
 ---
-
-**Author**: Aditya  
-**Date**: December 13, 2025  
-**Assignment**: Backend Internship - Organization Management Service
